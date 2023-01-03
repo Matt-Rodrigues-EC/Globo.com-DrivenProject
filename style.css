@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700&display=swap');
+body{
+    font-family: "Encode Sans", sans-serif;
+    background-color: #f5f6f7;
+}
+
+.Logo{ 
+    width: 171px;
+}
+
+.back{
+    
+    padding: 0 25px 0 25px;
+}
+
+hr{
+    border-color: #EBEDEF;
+    border-style: solid;
+}
+
+.Container{
+    margin: 1px;
+    display:grid;
+    align-content: center;
+    justify-items: center;
+    width: 100%;
+}
+
+.Nav{
+    margin: 1px;
+    display:flex;
+    justify-self: center;
+    font-family: Verdana, sans-serif;
+    border-top:  30px;
+    border-color: #F5F6F7 10px;
+    
+}
+
+.materias{
+    width: 624px;
+    height: 201px;
+    display: contents;
+    margin: 1px;
+}
+
+.post-row{
+    margin-top: 30px;
+    display: flex;
+}
+
+.post-column{
+    padding: 0 15px 0 15px;
+    margin: 25px;
+}
+
+.post{
+    border-radius: 12px;
+    height: 100px;
+    width: 175px;
+    margin: 10px;
+    justify-items: center;
+}
+
+.post2{
+    border-radius: 12px;
+    height: 120px;
+    width: 225px;
+    margin: 30px 10px 0 10px;
+    justify-items: center;
+}
+
+h1{
+    display: flex;
+    color: #C4160C;
+    font-size: 52px;
+    font-weight: bold;
+    text-align: left;
+    
+}
+
+h3{
+    color: #303134;
+    font-size: 18px;
+    text-align: left;
+}
+
+h4{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px 10px;
+    color:#C4170C;
+    font-size: 14px;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding: 0 10px 0 10px;
+    color: #2F3134;
+    font-size: 20px;
+}
+
+h6{
+    color:#2F3134;
+    font-size: 14px;
+    padding: 0 10px 0 10px;
+    margin: 5px 5px;
+}
+
+.Box{
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.block{
+    width: 100%;
+    height: 100vh;
+    margin: 1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+    text-transform: none;
+    text-align: left;
+    width: 200px;
+}
+
+.g1{
+    color: #c4170c;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.globo{
+    color:#4b70ae;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+.ge{
+    color:#06aa48;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.valor{
+    color: #006766;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.cartola{
+    color:#ff7400;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.globoplay{
+    color:#fb0234;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.dropz{
+    color:#FF75BB;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.gshow{
+    color:#EC7D00;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.quem{
+    color:#323333;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.receitas{
+    color:#A81D83;
+    margin: 25px;
+    font-family: "Encode Sans", sans-serif;
+}
+
+.column1{
+    color: #16AE54;
+}
+
+.column2{
+    color: #EC8006;
+}
+
+footer{
+    height: 50px;
+    margin: 50px;
+    background-color: #f5f6f7;
+}
